@@ -128,7 +128,7 @@ function changeText() {
       const next = document.querySelector(".next");
       next.setAttribute(
         "value",
-        "https://cobee-the-junior-programmer.netlify.app/contact.html"
+        "https://project-gules-ten.vercel.app/"
       );
     });
   }
